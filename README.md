@@ -9,6 +9,18 @@ dev-shell-essentials
 
 ## Installation
 
-git clone https://github.com/kepkin/dev-shell-essentials.git
+```bash
+wget https://github.com/kepkin/dev-shell-essentials/archive/master.zip -O dev-shell-essentials.zip &&
+  unzip dev-shell-essentials.zip &&
+  source dev-shell-essentials-master/dev-shell-essentials.sh
 
+```
+
+Or using git
+
+```bash
+git clone https://github.com/kepkin/dev-shell-essentials.git
+cd dev-shell-essentials
 source dev-shell-essentials.sh
+
+```
