@@ -1,0 +1,5 @@
+{"@timestamp":"2014-08-18T10:27:25.604+0400","channel":"synchronization","message_type":"input","client":"C2362567-C4D1-434A-987C-CF326F3800C0"}
+{"@timestamp":"2014-08-18T10:30:25.604+0400","channel":"synchronization","message_type":"output","client":"C2362567-C4D1-434A-987C-CF326F3800C0"}
+{"@timestamp":"2014-08-18T10:32:25.604+0400","channel":"synchronization","message_type":"input","client":"0E3BFC78-3387-4C5B-A9AD-CDFD1FEA02D8"}
+
+{"@timestamp":"2014-08-18T10:40:25.604+0400","channel":"synchronization","message_type":"input","client":"0E3BFC78-3387-4C5B-A9AD-CDFD1FEA02D8"}
