@@ -12,5 +12,5 @@ function highlight() {
 	 
 	fg_c=$(echo -e "\e[1;${fg_color_map[$1]}m")
 	c_rs=$'\e[0m'
-	while read -r line; do echo $line | sed s"/$2/$fg_c\0$c_rs/"; done
+	sed s"/$2/$fg_c\0$c_rs/"
 }
